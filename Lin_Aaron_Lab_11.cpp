@@ -48,7 +48,7 @@ int main()
             counter += 1; //adds 1 to counter
     }
 
-    avg = total/100; //the average of all the randomly generated number
+    avg = total/50; //the average of all the randomly generated number
     cout << "\nThe average of the randomly generated number is " << avg; //prints the average of all the randomly generated number
     cout << "\nThere is a total of " << counter << " of 100's in this array"; //prints the total amount of 100's in the array
 
@@ -63,6 +63,6 @@ int main()
 123 126 129 132 135 138 141 144 147 
 
 8 50 74 59 31 73 45 79 24 10 41 66 93 43 88 4 28 30 41 13 4 70 10 58 61 34 100 79 17 36 98 27 13 68 11 34 80 50 80 22 68 73 94 37 86 46 29 92 95 58 
-The average of the randomly generated number is 25
-There is a total of 1 of 100's in this array 
+The average of the randomly generated number is 50
+There is a total of 1 of 100's in this array
 */
